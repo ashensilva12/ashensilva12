@@ -32,7 +32,7 @@ To enable it:
 <h2 align="center">🏆 Achievements</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ranjuna120&theme=flat&no-bg=true&margin-w=10&column=8" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ashensilva12&theme=flat&no-bg=true&margin-w=10&column=8" alt="GitHub Trophies" />
 </p>
 
 <!-- Custom Trophy-style Badges (optional, edit points as needed) -->
