@@ -28,6 +28,25 @@ To enable it:
 - 📫 &nbsp;Reach me at: <a href="mailto:ashenlakshitha12@gmail.com">ashenlakshitha12@gmail.com</a>
 
 ---
+<!-- Achievements Section -->
+<h2 align="center">🏆 Achievements</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ranjuna120&theme=flat&no-bg=true&margin-w=10&column=8" alt="GitHub Trophies" />
+</p>
+
+<!-- Custom Trophy-style Badges (optional, edit points as needed) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Commits-627pt-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/PRs-35pt-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Stars-10pt-yellow?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Issues-16pt-orange?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Repos-17pt-pink?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Followers-1pt-lightgrey?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Experience-Newbie-blueviolet?style=for-the-badge&logo=github" />
+</p>
+
+---
 ## Featured projects
 
 - [project-one](https://github.com/ashensilva12/project-one) — <!-- short value/what it does -->
