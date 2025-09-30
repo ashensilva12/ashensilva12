@@ -6,20 +6,28 @@ To enable it:
 3) Commit and push
 -->
 
-<h1 align="center">Hi, I'm Ashen 👋</h1>
-
+<!-- Banner Section -->
 <p align="center">
-  <em>Software developer, lifelong learner, and open-source enthusiast.</em>
+  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" width="120"/>
 </p>
 
-## About me
+<h1 align="center">Hi 😊, I'm Ashen Lakshitha</h1>
+<p align="center">
+  🚀 Transforming ideas into reality with code!<br>
+  <em>Passionate about Software Engineering & Web Development</em>
+</p>
 
-- 🔭 Currently working on: <!-- Briefly describe your main project(s) -->
-- 🌱 Learning: <!-- e.g., Rust, Next.js, Kubernetes -->
-- 💬 Ask me about: <!-- e.g., APIs, backend, cloud, dev tooling -->
-- 📫 How to reach me: <!-- email or social links -->
-- ⚡ Fun fact: <!-- something unique about you -->
+---
 
+<!-- About Me Section -->
+- 👀 &nbsp;I’m interested in **Software Engineering**
+- 🌱 &nbsp;Currently learning **MERN Stack**
+- 💬 &nbsp;Ask me about **Web Development**
+- 🤝 &nbsp;I’m looking to collaborate on **Open Source Projects**
+- ⚡ &nbsp;Fun fact: I love solving algorithmic challenges and learning new tech!
+- 📫 &nbsp;Reach me at: <a href="mailto:ashenlakshitha12@gmail.com">ashenlakshitha12@gmail.com</a>
+
+---
 ## Featured projects
 
 - [project-one](https://github.com/ashensilva12/project-one) — <!-- short value/what it does -->
