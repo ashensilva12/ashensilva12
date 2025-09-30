@@ -74,6 +74,24 @@ To enable it:
 </p>
 
 ---
+<!-- GitHub Stats Section -->
+<h2 align="center">🚀 GitHub Stats</h2>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ashensilva12&show_icons=true&hide_title=true&hide_border=true&theme=radical" alt="Ashen's GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashensilva12&layout=compact&hide_border=true&theme=radical" alt="Ashen's Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashensilva12&hide_border=true&theme=radical" alt="Ashen's GitHub Streak"/>
+</p>
+
+---
+
+<!-- Footer -->
+<p align="center">
+  🚀 Always eager to learn and collaborate on exciting projects!
+</p>
 ## Featured projects
 
 - [project-one](https://github.com/ashensilva12/project-one) — <!-- short value/what it does -->
