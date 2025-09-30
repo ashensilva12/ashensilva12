@@ -107,23 +107,3 @@ To enable it:
 <p align="center">
   🚀 Always eager to learn and collaborate on exciting projects!
 </p>
-## Featured projects
-
-- [project-one](https://github.com/ashensilva12/project-one) — <!-- short value/what it does -->
-- [project-two](https://github.com/ashensilva12/project-two) — <!-- short value/what it does -->
-- [project-three](https://github.com/ashensilva12/project-three) — <!-- short value/what it does -->
-
-## Toolbox
-
-- Languages: <!-- e.g., JavaScript, TypeScript, Python, Go -->
-- Frameworks: <!-- e.g., React, Next.js, Node.js, FastAPI, Spring Boot -->
-- Cloud/DevOps: <!-- e.g., Docker, GitHub Actions, AWS, GCP, Terraform -->
-- Databases: <!-- e.g., PostgreSQL, MySQL, MongoDB, Redis -->
-- Other: <!-- e.g., REST, GraphQL, gRPC, testing, observability -->
-
-## Connect
-
-- LinkedIn: <!-- https://www.linkedin.com/in/YOUR_HANDLE -->
-- Website/Portfolio: <!-- https://YOUR_DOMAIN -->
-- X/Twitter: <!-- https://twitter.com/YOUR_HANDLE -->
-- Email: <!-- yourname@domain.com -->
