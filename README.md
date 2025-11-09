@@ -21,7 +21,7 @@ To enable it:
 
 <!-- About Me Section -->
 - 👀 &nbsp;I’m interested in **Software Engineering**
-- 🌱 &nbsp;Currently learning **PHP laravel**
+- 🌱 &nbsp;Currently learning **React JS**
 - 💬 &nbsp;Ask me about **Web Development**
 - 🤝 &nbsp;I’m looking to collaborate on **Open Source Projects**
 - ⚡ &nbsp;Fun fact: I love solving algorithmic challenges and learning new tech!
